@@ -65,7 +65,7 @@ Watch this space.
 ## Contact
 
 - **Project lead:** Dragon (12hrformat@proton.me)
-- **Discord:** https://discord.gg/aPUg2V7wWd
+- **Discord:** https://discord.gg/ydKr5Gv7Dm
 - **Website:** Not yet developed
 
 ---
